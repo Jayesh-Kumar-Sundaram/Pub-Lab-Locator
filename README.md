@@ -3,4 +3,4 @@ Geographically locate and visualize research institutes/labs contributed to a li
 
 ## Requirements
 1) Python
-2) R: packages - dplyr, tidygeocoder, leaflet
+2) R: packages - dplyr, tidygeocoder, leaflet, htmlwidgets
