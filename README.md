@@ -5,5 +5,3 @@ Input format: Abstract (text) format from Pubmed
 ## Requirements
 1) Python
 2) R: packages - dplyr, tidygeocoder, leaflet, htmlwidgets
-
-![](./04_plots/visualize_research_centers.html)
