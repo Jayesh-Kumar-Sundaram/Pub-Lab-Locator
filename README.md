@@ -10,6 +10,10 @@ Input format required: Abstract (text) format from Pubmed
 I am interested in finding research centers primarily working on molecular evolution.\
 Molecular biology and Evolution (https://academic.oup.com/mbe) is one of my favorite journal on this topic. I pulled out the list of publications in the last five years from this journal (May 2019 - May 2024).
 
+The research centres with atleast 5 publications in MBE journal are marked here:\
+(Note:The circle size is proportional to the number of publications)\
+![](./04_plots/visualize_research_centers.png)
+
 Here is the list of top 50 research centers from around the world that has most number of publication in this journal:\
 Rank. Number of Publications - Research centre
 1) 68 - University of Chinese Academy of Sciences, Beijing, China.
@@ -63,9 +67,6 @@ Rank. Number of Publications - Research centre
 49) 13 - Biomolecular Interactions, Max Planck Institute for Developmental Biology, Tübingen, Germany.
 50) 13 - Department of Forest Sciences, University of Helsinki, Helsinki, Finland.
 
-The research centres with atleast 5 publications are marked here:\
-(Note:The circle size is proportional to the number of publications)\
-![](./04_plots/visualize_research_centers.png)
 
 
 https://github.com/Jayesh-Kumar-Sundaram/Pub-Lab-Locator/blob/main/04_plots/visualize_research_centers.html
