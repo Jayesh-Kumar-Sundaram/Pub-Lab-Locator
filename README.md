@@ -14,6 +14,7 @@ The research centres with atleast 5 publications in MBE journal are marked here:
 (Note:The circle size is proportional to the logarithm (base 2) of the number of publications)\
 ![](./04_plots/visualize_research_centers.png)
 
+## Top research centres
 Here is the list of top 50 research centers from around the world that has most number of publication in this journal:\
 \
 [Rank. Number of Publications - Research centre]
