@@ -16,7 +16,7 @@ The research centres with atleast 5 publications in MBE journal are marked here:
 
 ## Interactive visualization of research centres !!!
 [Names: Number of publication - Research centre name]\
-<a href="https://github.com/Jayesh-Kumar-Sundaram/Pub-Lab-Locator/blob/main/04_plots/visualize_research_centers.html" download>Click to Download</a>
+<a href="https://github.com/Jayesh-Kumar-Sundaram/Pub-Lab-Locator/blob/main/04_plots/visualize_research_centers.html" download>Download the html file from here for interactive visualization</a>
 
 ## Top research centres
 Here is the list of top 50 research centers from around the world that has most number of publication in this journal:\
