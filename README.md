@@ -14,7 +14,8 @@ The research centres with atleast 5 publications in MBE journal are marked here:
 (Note:The circle size is proportional to the logarithm (base 2) of the number of publications)\
 ![](./04_plots/visualize_research_centers.png)
 
-Here is the list of top 50 research centers from around the world that has most number of publication in this journal:\\
+Here is the list of top 50 research centers from around the world that has most number of publication in this journal:\
+\
 Rank. Number of Publications - Research centre
 1) 68 - University of Chinese Academy of Sciences, Beijing, China.
 2) 57 - Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou), Guangzhou, China.
