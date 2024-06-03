@@ -14,8 +14,8 @@ The research centres with atleast 5 publications in MBE journal are marked here:
 (Note:The circle size is proportional to the logarithm (base 2) of the number of publications)\
 ![](./04_plots/visualize_research_centers.png)
 
-## Interactive visualization of research centres
-[Annotation: Number of publication - Research centre name]
+## Interactive visualization of research centres !!!
+[Names: Number of publication - Research centre name]\
 https://github.com/Jayesh-Kumar-Sundaram/Pub-Lab-Locator/blob/main/04_plots/visualize_research_centers.html
 [download]({{ site.baseurl }}{% https://github.com/Jayesh-Kumar-Sundaram/Pub-Lab-Locator/blob/main/04_plots/visualize_research_centers.html) %})
 
