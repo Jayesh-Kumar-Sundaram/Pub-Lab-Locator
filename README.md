@@ -1,6 +1,6 @@
 # Pub-Lab-Locator
 Geographically locate and visualize research institutes/labs contributed to a list of publications\
-Input format required: Abstract (text) format from Pubmed
+Input format required: List of publication in "Abstract (text)" format from Pubmed
 
 ## Requirements
 1) Python
