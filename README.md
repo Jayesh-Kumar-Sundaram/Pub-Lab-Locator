@@ -1,5 +1,5 @@
 # Pub-Lab-Locator
-Geographically locate and visualize research institutes/labs contributed to a list of publications\
+Geographically locate and interactively visualize research institutes/labs contributed to a list of publications\
 Input format required: List of publication in "Abstract (text)" format from Pubmed
 
 ## Requirements
