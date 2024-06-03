@@ -12,10 +12,11 @@ Molecular biology and Evolution (https://academic.oup.com/mbe) is one of my favo
 
 The research centres with atleast 5 publications in MBE journal are marked here:\
 (Note:The circle size is proportional to the logarithm (base 2) of the number of publications)\
+Static Image: (But make sure to download the html file below for interactive visualization)
 ![](./04_plots/visualize_research_centers.png)
 
 ## Interactive visualization of research centres !!!
-[Names: Number of publication - Research centre name]\
+[Naming format: Number of publication - Research centre name]\
 <a href="https://github.com/Jayesh-Kumar-Sundaram/Pub-Lab-Locator/blob/main/04_plots/visualize_research_centers.html" download>Download the html file from here for interactive visualization</a>
 
 ## Top research centres
