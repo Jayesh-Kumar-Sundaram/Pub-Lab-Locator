@@ -6,7 +6,7 @@ Input format: Abstract (text) format from Pubmed
 1) Python
 2) R: packages - dplyr, tidygeocoder, leaflet, htmlwidgets
 
-## Case study
+## Case study - Molecular biology and Evolution (MBE)
 I am interested in finding research centers primarily working on molecular evolution.\
 Molecular biology and Evolution (https://academic.oup.com/mbe) is one of my favorite journal on this topic. I pulled out the list of publications in the last five years from this journal (May 2019 - May 2024).
 
