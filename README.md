@@ -4,7 +4,7 @@ Input format: Abstract (text) format from Pubmed
 
 ## Requirements
 1) Python
-2) R: packages - dplyr, tidygeocoder, leaflet, htmlwidgets
+2) R: packages - dplyr, tidygeocoder, leaflet, htmlwidgets, mapview
 
 ## Case study - Molecular biology and Evolution (MBE)
 I am interested in finding research centers primarily working on molecular evolution.\
