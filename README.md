@@ -11,7 +11,7 @@ I am interested in finding research centers primarily working on molecular evolu
 Molecular biology and Evolution (https://academic.oup.com/mbe) is one of my favorite journal on this topic. I pulled out the list of publications in the last five years from this journal (May 2019 - May 2024).
 
 The research centres with atleast 5 publications in MBE journal are marked here:\
-(Note:The circle size is proportional to the number of publications)\
+(Note:The circle size is proportional to the logarithm (base 2) of the number of publications)\
 ![](./04_plots/visualize_research_centers.png)
 
 Here is the list of top 50 research centers from around the world that has most number of publication in this journal:\
