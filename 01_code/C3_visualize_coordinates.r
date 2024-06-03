@@ -1,6 +1,7 @@
 library(dplyr)
 library(leaflet)
 library(htmlwidgets)
+library(mapview)
 
 info <- read.delim("./../03_results/coordinate_info.tsv", header=T, sep="\t")
 if(sum(is.na(info$latitude)) > 0){info <- info[-c(which(is.na(info$latitude) == TRUE)),]}
@@ -24,5 +25,5 @@ m <- addTiles(m)
 m <- addCircleMarkers(m, lng = all_info$longitude, lat = all_info$latitude,
                       radius = sqrt(all_info$n_pubs), popup = all_info$anno)
 saveWidget(m, file="./../04_plots/visualize_research_centers.html")
-
+mapshot(m, file = "./../04_plots/visualize_research_centers.png")
 
