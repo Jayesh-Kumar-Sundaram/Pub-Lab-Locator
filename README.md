@@ -62,3 +62,7 @@ Rank. Number of Publications - Research centre
 48) 13 - Institute of Ecology and Evolution, University of Bern, Bern, Switzerland.
 49) 13 - Biomolecular Interactions, Max Planck Institute for Developmental Biology, Tübingen, Germany.
 50) 13 - Department of Forest Sciences, University of Helsinki, Helsinki, Finland.
+
+The research centres with atleast 5 publications are marked here:\
+The circle size is proportional to the number of publications\
+![](./04_plots/visualize_research_centers.png)
