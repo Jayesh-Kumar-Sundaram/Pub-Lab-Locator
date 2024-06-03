@@ -4,14 +4,14 @@ Input format: Abstract (text) format from Pubmed
 
 ## Requirements
 1) Python\
-2) R: packages - dplyr, tidygeocoder, leaflet, htmlwidgets\
+2) R: packages - dplyr, tidygeocoder, leaflet, htmlwidgets
 
 ## Case study
-I am interested in finding research centers primarily working on molecular evolution.\
+I am interested in finding research centers primarily working on molecular evolution.
 Molecular biology and Evolution (https://academic.oup.com/mbe) is one of my favorite journal on this topic. I pulled out the list of publications in the last five years from this journal (May 2019 - May 2024).\
 
 Here is the list of top 50 research centers from around the world that has most number of publication in this journal:\
-Rank) Number of Publications - Research centre\
+Rank) Number of Publications - Research centre
 1) 68 - University of Chinese Academy of Sciences, Beijing, China.
 2) 57 - Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou), Guangzhou, China.
 3) 52 - University of Chinese Academy of Sciences, Beijing, China.
