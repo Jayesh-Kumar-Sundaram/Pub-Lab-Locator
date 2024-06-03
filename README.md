@@ -14,6 +14,11 @@ The research centres with atleast 5 publications in MBE journal are marked here:
 (Note:The circle size is proportional to the logarithm (base 2) of the number of publications)\
 ![](./04_plots/visualize_research_centers.png)
 
+## Interactive visualization of research centres
+[Annotation: Number of publication - Research centre name]
+https://github.com/Jayesh-Kumar-Sundaram/Pub-Lab-Locator/blob/main/04_plots/visualize_research_centers.html
+[download]({{ site.baseurl }}{% https://github.com/Jayesh-Kumar-Sundaram/Pub-Lab-Locator/blob/main/04_plots/visualize_research_centers.html) %})
+
 ## Top research centres
 Here is the list of top 50 research centers from around the world that has most number of publication in this journal:\
 \
@@ -69,8 +74,5 @@ Here is the list of top 50 research centers from around the world that has most 
 49) 13 - Biomolecular Interactions, Max Planck Institute for Developmental Biology, Tübingen, Germany.
 50) 13 - Department of Forest Sciences, University of Helsinki, Helsinki, Finland.
 
-
-
-https://github.com/Jayesh-Kumar-Sundaram/Pub-Lab-Locator/blob/main/04_plots/visualize_research_centers.html
 
 
