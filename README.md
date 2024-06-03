@@ -73,3 +73,18 @@ Here is the list of top 50 research centers from around the world that has most 
 49) 13 - Biomolecular Interactions, Max Planck Institute for Developmental Biology, Tübingen, Germany.
 50) 13 - Department of Forest Sciences, University of Helsinki, Helsinki, Finland.
 
+## How to use it for your purpose?
+
+### Information
+1) 01_code: Contains the code files
+2) 02_data: Contains the list of publication in "Abstract (text)" format from Pubmed
+3) 03_results: Contains information about research centres associated with different publication
+4) 04_plots: Contains both static and interactive plots of research centres
+
+### TO DO:
+1) Download the entire github directory from here.
+2) Download the list of publication of interest from pubmed in "Abstract (text)" format and replace "abstract-Molecularb-set.txt" file in 02_data directory with your list of publication. Try to keep the name as "abstract-Molecularb-set.txt" otherwise change the name accordingly in the "C1_extract_address_with_PMID.py" file in 01_code directory.
+3) Make sure you have python and R installed with necessary packages as mentioned before.
+4) Finally, run the codes python C1_extract_address_with_PMID.py,	Rscript C2_address_to_coordinates.r	and Rscript C3_visualize_coordinates.r in the same order.
+5) These codes will generate necessary required information in 03_results and plots in 04_plots.
+
