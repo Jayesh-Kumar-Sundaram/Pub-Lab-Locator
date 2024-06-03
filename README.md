@@ -66,3 +66,8 @@ Rank. Number of Publications - Research centre
 The research centres with atleast 5 publications are marked here:\
 (Note:The circle size is proportional to the number of publications)\
 ![](./04_plots/visualize_research_centers.png)
+
+
+https://github.com/Jayesh-Kumar-Sundaram/Pub-Lab-Locator/blob/main/04_plots/visualize_research_centers.html
+
+
