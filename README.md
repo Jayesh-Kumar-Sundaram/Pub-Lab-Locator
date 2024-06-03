@@ -64,5 +64,5 @@ Rank. Number of Publications - Research centre
 50) 13 - Department of Forest Sciences, University of Helsinki, Helsinki, Finland.
 
 The research centres with atleast 5 publications are marked here:\
-The circle size is proportional to the number of publications\
+(Note:The circle size is proportional to the number of publications)\
 ![](./04_plots/visualize_research_centers.png)
