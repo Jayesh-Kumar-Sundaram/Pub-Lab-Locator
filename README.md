@@ -2,7 +2,7 @@
 Geographically locate and interactively visualize research institutes/labs contributed to a list of publications\
 Input format required: List of publication in "Abstract (text)" format from Pubmed
 
-## Requirements
+### Requirements
 1) Python
 2) R: packages - dplyr, tidygeocoder, leaflet, htmlwidgets, mapview
 
@@ -14,11 +14,11 @@ The research centres with atleast 5 publications in MBE journal are marked here:
 (Note:The circle size is proportional to the logarithm (base 2) of the number of publications)\
 ![](./04_plots/visualize_research_centers.png)
 
-## Interactive visualization of research centres !!!
+### Interactive visualization of research centres !!!
 [Naming format: Number of publication - Research centre name]\
 <a href="https://github.com/Jayesh-Kumar-Sundaram/Pub-Lab-Locator/blob/main/04_plots/visualize_research_centers.html" download>Download the html file from here for interactive visualization</a>
 
-## Top research centres
+### Top research centres
 Here is the list of top 50 research centers from around the world that has most number of publication in this journal:\
 \
 [Rank. Number of Publications - Research centre]
