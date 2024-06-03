@@ -25,5 +25,5 @@ m <- addTiles(m)
 m <- addCircleMarkers(m, lng = all_info$longitude, lat = all_info$latitude,
                       radius = sqrt(all_info$n_pubs), popup = all_info$anno)
 saveWidget(m, file="./../04_plots/visualize_research_centers.html")
-mapshot(m, file = "./../04_plots/visualize_research_centers.png")
+mapshot(m, file = "./../04_plots/visualize_research_centers_static.png")
 
